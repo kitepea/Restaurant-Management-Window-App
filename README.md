@@ -12,7 +12,7 @@ A desktop application developed to assist in the management of business operatio
 ## Key Features:
 - **Menu Management:** Allows users to add, edit, and delete items from the menu list, including item names, prices, and categories.
 - **Table Reservation and Management:** Users can reserve tables for customers and manage the status of tables, including available and occupied tables.
-- **Bill Management:** Supports the creation and management of payment bills for customer orders, including adding, deleting, and modifying items within the bill.
+- **Bill Management:** Supports the creation and management of payment bills for customer orders, including adding, discounting, and modifying items within the bill.
 - **Reporting:** Provides reporting functionality to generate reports on various aspects of restaurant operations, such as sales, revenue, and popular menu items.
 
 ## Utilized Technologies:
