@@ -47,7 +47,7 @@ namespace QuanLyNhaHang
             List<FoodCategory> listCategory = FoodCategoryDAO.Instance.LoadAllCategory();
             
             cbCategory.DataSource = listCategory;
-            cbCategory.DisplayMember = "Name";
+            cbCategory.DisplayMember = "name";
             
         }
 

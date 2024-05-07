@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "D:\\Github\\QuanLyNhaHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\Github\\QuanLyNhaHang\\quanlynhahang\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\Github\\QuanLyNhaHang\\quanlynhahang\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\Github\\QuanLyNhaHang\\quanlynhahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\github\\quanlynhahang\\quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\github\\quanlynhahang\\quanlynhahang\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\github\\quanlynhahang\\quanlynhahang\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\github\\quanlynhahang\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\github\\quanlynhahang\\quanlynhahang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\github\\quanlynhahang\\quanlynhahang\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\github\\quanlynhahang\\quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12196537-2B23-4543-8C8E-BCB8C0B511C0}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fTableManager.cs",
+              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
+              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\fTableManager.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAiwHwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:30:46.967Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -78,118 +72,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataProvider.cs",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA5wCIAAABHAAAA",
+              "DocumentIndex": 2,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:42:06.885Z",
+              "WhenOpened": "2024-05-07T08:59:46.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DTO\\Account.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\DTO\\Account.cs",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DTO\\Account.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\DTO\\Account.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:40:21.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "fTableManager.cs",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\fTableManager.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwBoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:39:45.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "fTableManager.cs [Design]",
               "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
               "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs [Design]",
               "RelativeToolTip": "QuanLyNhaHang\\fTableManager.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:39:43.509Z",
+              "WhenOpened": "2024-05-07T06:41:56.114Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fLogin.cs",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fLogin.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\fLogin.cs",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\fLogin.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\fLogin.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCkAAAAtAAAA",
+              "DocumentIndex": 3,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:23:06.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\App.config",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\App.config",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\App.config",
-              "RelativeToolTip": "QuanLyNhaHang\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-03T04:37:35.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\Program.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\Program.cs",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\Program.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:21:23.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\AccountDAO.cs",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\AccountDAO.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\DAO\\AccountDAO.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAowCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:15:07.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BillInfo.cs",
-              "DocumentMoniker": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DTO\\BillInfo.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\DTO\\BillInfo.cs",
-              "ToolTip": "D:\\Github\\QuanLyNhaHang\\QuanLyNhaHang\\DTO\\BillInfo.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\DTO\\BillInfo.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwvw0AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T04:40:33.498Z",
+              "WhenOpened": "2024-05-07T06:12:16.83Z",
               "EditorCaption": ""
             }
           ]
